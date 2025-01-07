@@ -4,6 +4,20 @@
 
 Lingo Bingo is a fun and interactive language learning application designed to help users expand their vocabulary and improve communication skills in a specific language. With features like vocabulary lessons, tutorials, and audio pronunciation, this app makes learning enjoyable and effective.
 
+## 📸 Project Screenshots
+
+### Project Screenshot 1
+
+<div align="center">
+  <img height="300" src="https://i.ibb.co.com/Fq3sgGp/Screenshot-2025-01-08-033203.png" alt="Lingo Bingo Screenshot 1"/>
+</div>
+
+### Project Screenshot 2
+
+<div align="center">
+  <img height="300" src="https://i.ibb.co.com/SXn8CCZ/Screenshot-2025-01-08-033236.png" alt="Lingo Bingo Screenshot 2"/>
+</div>
+
 ## ✨ Key Features
 
 - **Interactive Lessons:** Organized vocabulary lessons based on difficulty levels.
