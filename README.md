@@ -46,5 +46,16 @@ Lingo Bingo is a fun and interactive language learning application designed to h
 
 - **Netlify**: [Lingo Bingo on Netlify](https://lingo-bingo.netlify.app/)
 - **Firebase**: [Lingo Bingo on Firebase](https://lingo-bingo-bacc3.web.app)
+
+## 💻 Local Setup Guide
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+First, clone the project repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/lingo-bingo.git
   
 Enjoy learning with **Lingo Bingo**! 🎉
