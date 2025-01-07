@@ -30,6 +30,24 @@ Lingo Bingo is a fun and interactive language learning application designed to h
 - **React Icons**: For adding icons to enhance the UI.
 - **React Toastify**: For displaying error and success messages.
 
+## 📦 Dependencies
+
+- **aos**: "^2.3.4"
+- **bootstrap**: "^5.3.3"
+- **firebase**: "^11.0.2"
+- **localforage**: "^1.10.0"
+- **match-sorter**: "^8.0.0"
+- **react**: "^18.3.1"
+- **react-bootstrap**: "^2.10.5"
+- **react-countup**: "^6.5.3"
+- **react-dom**: "^18.3.1"
+- **react-icons**: "^5.3.0"
+- **react-router-dom**: "^6.28.0"
+- **react-scroll-trigger**: "^0.6.14"
+- **react-toastify**: "^10.0.6"
+- **sort-by**: "^1.2.0"
+- **swiper**: "^11.1.15"
+
 ## 🚀 Technology Stats
 
 <div>
