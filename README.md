@@ -58,9 +58,5 @@ First, clone the project repository to your local machine:
 ```bash
 git clone https://github.com/arifhassansky/lingo-bingo.git
 cd lingo-bingo
-npm install
-REACT_APP_FIREBASE_API_KEY=your-firebase-api-key
-REACT_APP_FIREBASE_AUTH_DOMAIN=your-firebase-auth-domain
-REACT_APP_FIREBASE_PROJECT_ID=your-firebase-project-id
-npm start
+
 
