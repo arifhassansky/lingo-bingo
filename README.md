@@ -30,15 +30,25 @@ Lingo Bingo is a fun and interactive language learning application designed to h
 - **React Icons**: For adding icons to enhance the UI.
 - **React Toastify**: For displaying error and success messages.
 
-## 🌐 Live URL
-
-- **Netlify**: [Lingo Bingo on Netlify](https://lingo-bingo.netlify.app/)
-- **Firebase**: [Lingo Bingo on Firebase](https://lingo-bingo-bacc3.web.app)
-
 ## 🚀 Technology Stats
+
+### Technology Usage Breakdown
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-60%25-blue" alt="React Usage" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-30%25-green" alt="Tailwind CSS Usage" />
+  <img src="https://img.shields.io/badge/Firebase-10%25-orange" alt="Firebase Usage" />
+</div>
+
+### Technology Stats
 
 - **React**: 60% of the application logic and UI.
 - **Tailwind CSS**: 30% for creating responsive, customizable designs.
 - **Firebase**: 10% for authentication and database management.
 
+## 🌐 Live URL
+
+- **Netlify**: [Lingo Bingo on Netlify](https://lingo-bingo.netlify.app/)
+- **Firebase**: [Lingo Bingo on Firebase](https://lingo-bingo-bacc3.web.app)
+  
 Enjoy learning with **Lingo Bingo**! 🎉
