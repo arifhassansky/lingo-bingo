@@ -109,12 +109,12 @@ npm install
 To configure Firebase and other services, you'll need to set up environment variables. Create a `.env` file in the root of the project and add the following Firebase configuration:
 
 ```bash
-REACT_APP_FIREBASE_API_KEY=your-firebase-api-key
-REACT_APP_FIREBASE_AUTH_DOMAIN=your-firebase-auth-domain
-REACT_APP_FIREBASE_PROJECT_ID=your-firebase-project-id
-REACT_APP_FIREBASE_STORAGE_BUCKET=your-firebase-storage-bucket
-REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your-firebase-messaging-sender-id
-REACT_APP_FIREBASE_APP_ID=your-firebase-app-id
+FIREBASE_API_KEY=your-firebase-api-key
+FIREBASE_AUTH_DOMAIN=your-firebase-auth-domain
+FIREBASE_PROJECT_ID=your-firebase-project-id
+FIREBASE_STORAGE_BUCKET=your-firebase-storage-bucket
+FIREBASE_MESSAGING_SENDER_ID=your-firebase-messaging-sender-id
+FIREBASE_APP_ID=your-firebase-app-id
 ```
 
 Make sure to replace the placeholder values with your actual Firebase configuration.
@@ -124,7 +124,7 @@ Make sure to replace the placeholder values with your actual Firebase configurat
 Once you've installed the dependencies and set up the environment variables, you can run the project locally with the following command:
 
 ```bash
-npm start
+npm run dev
 ```
 
 This will start the development server and open the application in your browser. You can now explore the Lingo Bingo app locally!
